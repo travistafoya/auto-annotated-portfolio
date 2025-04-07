@@ -82,7 +82,7 @@
             "email": "travisrtafoya@gmail.com",
             "emailAltText": "My email",
             "address": "Golden, CO",
-            "addressAltText": "My address"
+            "addressAltText": "Address/Location"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
